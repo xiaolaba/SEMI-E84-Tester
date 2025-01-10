@@ -7,8 +7,8 @@ the same ISO4902 DB25 plug/socket, both are PARALLEL port
 
 ### power supply & voltage and the port signal
 LPT port uses +5V, TTL signal  
-LPT port logic 1, 2V min
-LPT port logic 0, 0.8V max
+LPT port logic 1, 2V min  
+LPT port logic 0, 0.8V max  
 
 E84 port uses +24V +/-6V, 100mA max  
 E84 port Signal ON is active_low, typ 10mA, 1.8V Max  
